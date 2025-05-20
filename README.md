@@ -23,8 +23,4 @@ MoodMate is a React-based mood tracking app that lets you log your mood, add not
 - HTML5 Geolocation API
 - Browser `localStorage`
 
-## 📦 Installation
 
-```bash
-npm install
-npm start
